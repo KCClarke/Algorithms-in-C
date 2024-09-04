@@ -1,0 +1,11 @@
+Seedgwick's Algorithms in C
+Excercises 1 through 9 have taken me 8x45 minute sessions
+split between two days sept 2nd and 3rd.
+
+Reference material:
+K.N. Kings C Programming
+K&R C
+James W. Grenning T-DD for Embedded C
+Colby O'Donnell's Foundations Of C Programming at the UW
+
+-Kasey
